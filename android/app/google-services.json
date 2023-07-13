@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "908431668742",
+    "project_id": "door-knock-alert",
+    "storage_bucket": "door-knock-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908431668742:android:c6db49168d9d24a4b3f587",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908431668742-5kiocdnibt2oqp4r2qeq3ev63cnhp01j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZnYkfcKpXzfotSEF5eunzLWLsF098R8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908431668742-5kiocdnibt2oqp4r2qeq3ev63cnhp01j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908431668742-87q2rrpq8dquschdj3ajuseqclbo8n60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLayout.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
